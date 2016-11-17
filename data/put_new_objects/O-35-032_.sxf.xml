@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+<header parcel_id="c6305175a1f844a3b75dd733ddba9d7e"/>
+<tags><tag id="105643003041058000" /><tag id="105643003041041000" /><tag id="105233000000000000" /></tags>
+<chart Class="121110" Name="O-35-032_.sxf" Type="SXF">
+<Attribute name="c236" value="SXF" />
+<Attribute name="c208.4.1" value="59" />
+<Attribute name="c703" value="2012-04-05" />
+<Attribute name="c210" value="Северное" />
+<Attribute name="c215" value="0.000000" />
+<Attribute name="c209.1.2" value="5528737.955" />
+<Attribute name="c208.1.2" value="27.5" />
+<Attribute name="c208.4.2" value="28" />
+<Attribute name="c208.3.1" value="59.333333" />
+<Attribute name="c209.4.1" value="6543213.424" />
+<Attribute name="c201" value="100000" />
+<Attribute name="c203" value="Рaвноугольнaя поперечно-цилиндрическая Гaуссa-Крюгерa" />
+<Attribute name="c209.2.1" value="6580023.591" />
+<Attribute name="c303" value="Система координат 1995 г. - Россия" />
+<Attribute name="c208.2.1" value="59.333333" />
+<Attribute name="c250" value="1 м" />
+<Attribute name="c208.1.1" value="59" />
+<Attribute name="c205" value="Трапециевидная с точками излома" />
+<Attribute name="c306" value="Красовского 1942 г. (большая полуось- 6378245 м, сжатие- 1: 298.3)" />
+<Attribute name="c209.3.2" value="5556918.371" />
+<Attribute name="c209.1.1" value="6542890.967" />
+<Attribute name="c237.1" value="100otkr_.rsc" />
+<Attribute name="c251" value="1 м" />
+<Attribute name="c702" value="2009-01-01" />
+<Attribute name="c235" value="0.000" />
+<Attribute name="c234" value="105643003041058000|105643003041041000|105233000000000000" />
+<Attribute name="c103" value="Несекретно" />
+<Attribute name="c296" value="Точные" />
+<Attribute name="c209.4.2" value="5557474.884" />
+<Attribute name="c209.2.2" value="5528459.705" />
+<Attribute name="c208.3.2" value="28" />
+<Attribute name="c122" value="ЗАГРИВЬЕ" />
+<Attribute name="c208.2.2" value="27.5" />
+<Attribute name="c114" value="2012-04-05" />
+<Attribute name="c202" value="0.O-35-032" />
+<Attribute name="c209.3.1" value="6580344.036" />
+<Attribute name="c304" value="Балтийская система высот 1977 г." />
+</chart>
+</request>

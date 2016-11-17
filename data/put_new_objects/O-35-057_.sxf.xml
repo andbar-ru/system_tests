@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+<header parcel_id="e3e51957d39d4e5383d68e25060a36f5"/>
+<tags><tag id="105643003041058000" /></tags>
+<chart Class="121110" Name="O-35-057_.sxf" Type="SXF">
+<Attribute name="c103" value="Несекретно" />
+<Attribute name="c209.1.1" value="6468957.809" />
+<Attribute name="c208.3.1" value="58.666667" />
+<Attribute name="c237.1" value="100otkr_.rsc" />
+<Attribute name="c209.3.2" value="5587041.606" />
+<Attribute name="c304" value="Балтийская система высот 1977 г." />
+<Attribute name="c209.3.1" value="6506625.401" />
+<Attribute name="c208.4.1" value="58.333333" />
+<Attribute name="c208.4.2" value="28.5" />
+<Attribute name="c250" value="1 м" />
+<Attribute name="c215" value="0.000000" />
+<Attribute name="c208.2.2" value="28" />
+<Attribute name="c210" value="Северное" />
+<Attribute name="c702" value="2009-01-01" />
+<Attribute name="c209.4.1" value="6469501.74" />
+<Attribute name="c209.2.2" value="5558029.427" />
+<Attribute name="c202" value="0.O-35-057" />
+<Attribute name="c208.1.1" value="58.333333" />
+<Attribute name="c235" value="0.000" />
+<Attribute name="c303" value="Система координат 1995 г. - Россия" />
+<Attribute name="c209.2.1" value="6506084.677" />
+<Attribute name="c201" value="100000" />
+<Attribute name="c703" value="2011-11-04" />
+<Attribute name="c209.1.2" value="5558581.981" />
+<Attribute name="c251" value="1 м" />
+<Attribute name="c234" value="105643003041058000" />
+<Attribute name="c208.3.2" value="28.5" />
+<Attribute name="c122" value="ЯММ" />
+<Attribute name="c209.4.2" value="5587870.471" />
+<Attribute name="c236" value="SXF" />
+<Attribute name="c208.2.1" value="58.666667" />
+<Attribute name="c114" value="2011-11-04" />
+<Attribute name="c203" value="Рaвноугольнaя поперечно-цилиндрическая Гaуссa-Крюгерa" />
+<Attribute name="c208.1.2" value="28" />
+<Attribute name="c205" value="Трапециевидная с точками излома" />
+<Attribute name="c306" value="Красовского 1942 г. (большая полуось- 6378245 м, сжатие- 1: 298.3)" />
+<Attribute name="c296" value="Точные" />
+</chart>
+</request>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+<header parcel_id="6fcb98e31c5247ba9d130792e68902a5"/>
+<tags><tag id="105643003041041000" /></tags>
+<chart Class="121110" Name="O-35-048_.sxf" Type="SXF">
+<Attribute name="c208.3.1" value="59" />
+<Attribute name="c208.2.2" value="29.5" />
+<Attribute name="c208.2.1" value="59" />
+<Attribute name="c235" value="0.000" />
+<Attribute name="c205" value="Трапециевидная с точками излома" />
+<Attribute name="c209.4.1" value="6509545.682" />
+<Attribute name="c209.1.1" value="6508355.863" />
+<Attribute name="c209.2.2" value="5643669.236" />
+<Attribute name="c208.1.2" value="29.5" />
+<Attribute name="c210" value="Северное" />
+<Attribute name="c209.1.2" value="5645055.819" />
+<Attribute name="c114" value="2012-04-10" />
+<Attribute name="c702" value="2009-01-01" />
+<Attribute name="c209.3.2" value="5672391.778" />
+<Attribute name="c103" value="Несекретно" />
+<Attribute name="c208.1.1" value="58.666667" />
+<Attribute name="c201" value="100000" />
+<Attribute name="c304" value="Балтийская система высот 1977 г." />
+<Attribute name="c237.1" value="100otkr_.rsc" />
+<Attribute name="c251" value="1 м" />
+<Attribute name="c234" value="105643003041041000" />
+<Attribute name="c203" value="Рaвноугольнaя поперечно-цилиндрическая Гaуссa-Крюгерa" />
+<Attribute name="c208.4.2" value="30" />
+<Attribute name="c250" value="1 м" />
+<Attribute name="c209.3.1" value="6546653.412" />
+<Attribute name="c703" value="2012-04-10" />
+<Attribute name="c306" value="Красовского 1942 г. (большая полуось- 6378245 м, сжатие- 1: 298.3)" />
+<Attribute name="c208.3.2" value="30" />
+<Attribute name="c122" value="ЛУГА" />
+<Attribute name="c209.2.1" value="6545470.822" />
+<Attribute name="c303" value="Система координат 1995 г. - Россия" />
+<Attribute name="c296" value="Точные" />
+<Attribute name="c209.4.2" value="5674055.819" />
+<Attribute name="c202" value="0.O-35-048" />
+<Attribute name="c215" value="0.000000" />
+<Attribute name="c208.4.1" value="58.666667" />
+<Attribute name="c236" value="SXF" />
+</chart>
+</request>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+<header parcel_id="cf49ee743d3b45e39d4335908648dfaf"/>
+<tags><tag id="105643003041058000" /><tag id="105233000000000000" /></tags>
+<chart Class="121110" Name="O-35-055_.sxf" Type="SXF">
+<Attribute name="c205" value="Трапециевидная с точками излома" />
+<Attribute name="c122" value="КАЛЛАСТЕ" />
+<Attribute name="c208.2.1" value="58.666667" />
+<Attribute name="c210" value="Северное" />
+<Attribute name="c208.4.2" value="27.5" />
+<Attribute name="c703" value="2011-11-16" />
+<Attribute name="c702" value="2009-01-01" />
+<Attribute name="c209.1.2" value="5500000" />
+<Attribute name="c209.3.2" value="5529015.22" />
+<Attribute name="c201" value="100000" />
+<Attribute name="c208.3.2" value="27.5" />
+<Attribute name="c209.1.1" value="6468522.68" />
+<Attribute name="c251" value="1 м" />
+<Attribute name="c208.3.1" value="58.666667" />
+<Attribute name="c208.1.2" value="27" />
+<Attribute name="c114" value="2011-11-16" />
+<Attribute name="c235" value="0.000" />
+<Attribute name="c209.2.1" value="6505652.114" />
+<Attribute name="c208.2.2" value="27" />
+<Attribute name="c250" value="1 м" />
+<Attribute name="c296" value="Точные" />
+<Attribute name="c236" value="SXF" />
+<Attribute name="c234" value="105643003041058000|105233000000000000" />
+<Attribute name="c209.3.1" value="6505760.253" />
+<Attribute name="c209.2.2" value="5500000" />
+<Attribute name="c208.4.1" value="58.333333" />
+<Attribute name="c202" value="0.O-35-055" />
+<Attribute name="c203" value="Рaвноугольнaя поперечно-цилиндрическая Гaуссa-Крюгерa" />
+<Attribute name="c303" value="Система координат 1995 г. - Россия" />
+<Attribute name="c208.1.1" value="58.333333" />
+<Attribute name="c209.4.2" value="5529291.491" />
+<Attribute name="c209.4.1" value="6468631.461" />
+<Attribute name="c304" value="Балтийская система высот 1977 г." />
+<Attribute name="c215" value="0.000000" />
+<Attribute name="c237.1" value="100otkr_.rsc" />
+<Attribute name="c103" value="Несекретно" />
+<Attribute name="c306" value="Красовского 1942 г. (большая полуось- 6378245 м, сжатие- 1: 298.3)" />
+</chart>
+</request>
